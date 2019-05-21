@@ -75,3 +75,6 @@ Soothing extracts from John Lua's memoir "Eat, Pray, Code" to guide through your
 
 
 > “I give them eternal life, and they shall never perish; no one will collect them out of my heap. My Allocator, who has given them to me, is greater than all; no one can Mark-and-Sweep them out of my Garbage-Collector’s hand. I and the Collector are one.” - John Lua
+
+
+>“There is no fear in optimisation. But perfect optimisation drives out fear, because fear has to do with punishment. The one who fears is not made perfect in optimisation.” - John Lua
