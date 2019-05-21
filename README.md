@@ -65,3 +65,13 @@ Soothing extracts from John Lua's memoir "Eat, Pray, Code" to guide through your
 
 >“You dump functions. You dump memory regions and crash reports that look like hell. You dump unused variables and collected garbage and tables. But people?” - John Lua
 
+>“Whoever believes in the Trace is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of John Lua’s one and only Function.” - John Lua
+
+
+>“It is written: ‘Lua shall not live on interpreter alone, but on every instruction that comes from the mouth of Mike Pall.’” - John Lua
+
+
+> “Because of Mike Pall’s great love we are not consumed, for his Traces never fail. They are new every loop; great is your Just-In-Time compilation.” - John Lua
+
+
+> “I give them eternal life, and they shall never perish; no one will collect them out of my heap. My Allocator, who has given them to me, is greater than all; no one can Mark-and-Sweep them out of my Garbage-Collector’s hand. I and the Collector are one.” - John Lua
